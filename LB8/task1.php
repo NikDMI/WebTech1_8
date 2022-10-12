@@ -23,7 +23,7 @@ $config = [
         ['file', 'dir'  => __DIR__ .'/mails'],
         
         // Отправка писем через Yandex, используя SSL и авторизацию
-        ['smtp', 'host' => 'smtp.yandex.ru', 'ssl' => true, 'port' => '465', 'login' => MAIL_FROM, 'password' => 'eupbydcsjsdalewp'],
+        ['smtp', 'host' => 'smtp.yandex.ru', 'ssl' => true, 'port' => '465', 'login' => MAIL_FROM, 'password' => 'eupbydcsjskdalwp'],
     ],
 ];
 
